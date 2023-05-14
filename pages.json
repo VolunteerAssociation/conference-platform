@@ -3,7 +3,7 @@
     {
       "path": "pages/home/home",
       "style": {
-        "navigationBarTitleText": "friend",
+        "navigationBarTitleText": "home",
         "navigationStyle": "custom"
       }
     },
