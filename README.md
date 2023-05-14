@@ -1,3 +1,11 @@
+<!--
+ * @Author: chenguihui
+ * @Date: 2023-05-14 13:47:10
+ * @LastEditors: chenguihui
+ * @LastEditTime: 2023-05-14 15:02:55
+ * @Description: 
+ * @filePath: Do not edit
+-->
 # Conference platform
 - 短视频平台
 
@@ -46,7 +54,8 @@
 3. 微信：ed2404296720
 
 ### 赞助作者
-* 打赏就duck不必啦～ 就点点🌟 Star 🌟 关注更新，支持下作者就可以了
+* 没事就多点点🌟 Star 🌟 关注更新，支持下作者就可以了
+![支付宝](https://www.chenguihui.com/images/payment/zfb.jpg) ![微信](https://www.chenguihui.com/images/payment/wx.jpg)
 
 # License
 
