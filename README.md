@@ -2,14 +2,22 @@
 - 短视频平台
 
 # 项目依赖
-- HBuilderX
-- uni-ui
+- HBuilderX(v3.7.11以上)
+  - 插件依赖
+  - uni-app（Vue3）编译
+  - less
+  - sass
+  - uni_modules
+- uni-ui(v1.4.27以上)
 
 # 项目目录结构
 - page
-  * index
+  * home
+  * mine
+  * friend
 - static
 - stores
+  - counter.js
 - uni-modules
 - App.vue
 - index.html
